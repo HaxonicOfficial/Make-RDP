@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "Installing RDP Be Patience... " >&2
+printf "Installing RDP,  Patience!!!... " >&2
 {
 sudo useradd -m rootx007
 sudo adduser rootx007 sudo
